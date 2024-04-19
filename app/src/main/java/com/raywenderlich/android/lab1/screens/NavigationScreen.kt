@@ -36,6 +36,7 @@ fun NavigationScreen() {
             NavigationButton(stringResource(id = R.string.button_alertDialog), Screen.AlertDialog)
             NavigationButton(stringResource(id = R.string.row), Screen.Row)
             NavigationButton(stringResource(id = R.string.column),Screen.Column)
+            NavigationButton(stringResource(id = R.string.box),Screen.Box)
         }
     }
 }
