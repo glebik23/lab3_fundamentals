@@ -18,5 +18,6 @@
     <string name="row">Контейнер Row</string>
     <string name="column">Контейнер Column</string>
     <string name="box">Контейнер Box</string>
+    <string name="surface">Контейнер Surface</string>
 
 </resources>
