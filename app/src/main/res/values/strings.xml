@@ -22,5 +22,7 @@
     <string name="scaffold">Контейнер Scaffold</string>
     <string name="menu">Меню</string>
     <string name="composeapp">MyComposeApp</string>
-
+    <string name="android">android</string>
+    <string name="ios">ios</string>
+    <string name="kotlin">kotlin</string>
 </resources>
