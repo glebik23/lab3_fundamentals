@@ -31,4 +31,6 @@
     <string name="scrolling">Контейнер Scrolling</string>
     <string name="book_covers">Обложки книг</string>
     <string name="list">Контейнер List</string>
+    <string name="grid_icon">Иконка</string>
+    <string name="grid">Контейнер Grid</string>
 </resources>
