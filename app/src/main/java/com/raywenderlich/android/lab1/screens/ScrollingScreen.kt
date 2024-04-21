@@ -32,7 +32,7 @@ fun ScrollingScreen() {
 
 @Composable
 fun MyScrollingScreen(modifier: Modifier = Modifier) {
-    Column (modifier = modifier.verticalScroll(rememberScrollState())) {
+    Row (modifier = modifier.horizontalScroll(rememberScrollState())) {
         BookImage(R.drawable.advanced_architecture_android, R.string.advanced_architecture_android)
         BookImage(R.drawable.kotlin_aprentice, R.string.kotlin_aprentice)
         BookImage(R.drawable.kotlin_coroutines, R.string.kotlin_coroutines)
